@@ -1,7 +1,26 @@
-.left {
+.navbar {
+    height: 35px;
+    background-color: #d37121;
+    display: flex;
+    justify-content: center;
+}
+
+.navContainer {
+    width: 100%;
+    max-width: 1024px;
+    color: white;
     display: flex;
     align-items: center;
-    justify-content: center;
-    margin: 10px;
-    background-color: rgb(220, 121, 34);
+    justify-content: space-evenly;
+}
+
+.navButton {
+    margin-left: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    background: orange;
+    color :white;
+    font-weight: bold;
 }

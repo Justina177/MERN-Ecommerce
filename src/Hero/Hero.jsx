@@ -1,5 +1,5 @@
 import React from 'react';
-import img1 from '../img/beauty1.jpeg';
+// import img1 from '../img/beauty1.jpeg';
 import logo from '../img/perfume1-removebg-preview.png';
 import './hero.css';
 
